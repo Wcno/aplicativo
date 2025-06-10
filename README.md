@@ -9,3 +9,5 @@ Una aplicación móvil desarrollada en **Kotlin** usando **Jetpack Compose** que
 - 🎚️ Control de velocidad y tono de la voz.
 - 🎧 Selección de acentos por idioma (limitada por disponibilidad del dispositivo).
 - 🧹 Botón para limpiar el texto ingresado.
+  
+![Text to Speech UI](image.png)
